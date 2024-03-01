@@ -3,6 +3,8 @@
 
 # COMMAND ----------
 
+# this is a fake change
+foo="bar"
 lesson_config = LessonConfig(name=None,
                              create_schema=True,
                              create_catalog=False,
